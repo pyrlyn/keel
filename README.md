@@ -1,4 +1,4 @@
-# Keel
+<h1><picture><source media="(prefers-color-scheme: dark)" srcset="brand/logo-dark.svg"><img src="brand/logo.svg" width="32" height="32" alt="" align="absmiddle"></picture> Keel</h1>
 
 A fast, focused Git client.
 
